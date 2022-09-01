@@ -1,0 +1,6 @@
+{
+    "baseUrl":"http://webdriveruniversity.com",
+    "ignoreTestFiles" : ["**/integration/1-getting-started/*", "**/integration/2-advanced-examples/*"],
+    "viewportWidth": 1920 ,
+    "viewportHeight": 1080
+}
